@@ -1,6 +1,6 @@
 # CSWinTT
 
-The official implementation of the CVPR 2022 paper [**Transformer Tracking with Cyclic Shifting Window Attention**](http://arxiv.org)
+The official implementation of the CVPR 2022 paper [**Transformer Tracking with Cyclic Shifting Window Attention**](https://arxiv.org/abs/2205.03806)
 
 [[Models and Raw results]](https://drive.google.com/drive/folders/159MAdPTJrSFbt1RLveiksk-qe_qssfPw?usp=sharing) (Google Driver) or
 [[Models and Raw results]](https://pan.baidu.com/s/1vkXyPuqR7DaftcHzmUcIuQ?pwd=bsa2) (Baidu Driver: bsa2).
